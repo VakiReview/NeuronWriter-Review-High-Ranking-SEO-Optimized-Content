@@ -33,7 +33,7 @@
   
   
   
-  <h5 class="wp-block-heading"><strong>Get Insights to Rank High on Google</strong></h5>
+  <h3 class="wp-block-heading"><strong>Get Insights to Rank High on Google</strong></h3>
   
   
   
@@ -51,7 +51,7 @@
   
   
   
-  <h5 class="wp-block-heading"><strong>Generate Content and Drafts with AI</strong></h5>
+  <h3 class="wp-block-heading"><strong>Generate Content and Drafts with AI</strong></h3>
   
   
   
@@ -73,7 +73,7 @@
   
   
   
-  <h5 class="wp-block-heading"><strong>Optimize Your Content for High Rankings</strong></h5>
+  <h3 class="wp-block-heading"><strong>Optimize Your Content for High Rankings</strong></h3>
   
   
   
@@ -95,7 +95,7 @@
   
   
   
-  <h5 class="wp-block-heading"><strong>Streamline Integrations and Collaboration</strong></h5>
+  <h3 class="wp-block-heading"><strong>Streamline Integrations and Collaboration</strong></h3>
   
   
   
@@ -121,7 +121,7 @@
   
   
   
-  <h5 class="wp-block-heading"><strong>Step 1: Research</strong></h5>
+  <h3 class="wp-block-heading"><strong>Step 1: Research</strong></h3>
   
   
   
@@ -131,7 +131,7 @@
   
   
   
-  <h5 class="wp-block-heading"><strong>Step 2: Plan</strong></h5>
+  <h3 class="wp-block-heading"><strong>Step 2: Plan</strong></h3>
   
   
   
@@ -141,7 +141,7 @@
   
   
   
-  <h5 class="wp-block-heading"><strong>Step 3: Write</strong></h5>
+  <h3 class="wp-block-heading"><strong>Step 3: Write</strong></h3>
   
   
   
@@ -151,7 +151,7 @@
   
   
   
-  <h5 class="wp-block-heading"><strong>Step 4: Optimize</strong></h5>
+  <h3 class="wp-block-heading"><strong>Step 4: Optimize</strong></h3>
   
   
   
@@ -161,7 +161,7 @@
   
   
   
-  <h5 class="wp-block-heading"><strong>Step 5: Publish</strong></h5>
+  <h3 class="wp-block-heading"><strong>Step 5: Publish</strong></h3>
   
   
   
@@ -270,7 +270,7 @@
   
   
   
-  <h5 class="wp-block-heading"><strong>Pros:</strong></h5>
+  <h3 class="wp-block-heading"><strong>Pros:</strong></h3>
   
   
   
@@ -296,7 +296,7 @@
   
   
   
-  <h5 class="wp-block-heading"><strong>Cons:</strong></h5>
+  <h3 class="wp-block-heading"><strong>Cons:</strong></h3>
   
   
   
